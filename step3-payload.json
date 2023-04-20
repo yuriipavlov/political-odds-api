@@ -1,0 +1,37 @@
+[
+  {
+    "BetName": "2020 Republican Presidential Nominee",
+    "BetOptions": [
+      {
+        "Outcome": "Anyone other than Donald Trump",
+        "Odds": 21
+      }
+    ]
+  },
+  {
+    "BetName": "Donald Trump",
+    "BetOptions": [
+      {
+        "Outcome": "No",
+        "Odds": 10
+      }
+    ]
+  },
+  {
+    "BetName": "2020 US Presidential Election - Winning Party",
+    "BetOptions": [
+      {
+        "Outcome": "Republican",
+        "Odds": 1.6
+      },
+      {
+        "Outcome": "Democrat",
+        "Odds": 2.25
+      },
+      {
+        "Outcome": "Independent",
+        "Odds": 51
+      }
+    ]
+  }
+]
